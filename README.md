@@ -1,5 +1,7 @@
 # dmsetup-arm64
 
+Compiled for Android
+
 
 Usage:
         [--version] [-h|--help [-c|-C|--columns]]
